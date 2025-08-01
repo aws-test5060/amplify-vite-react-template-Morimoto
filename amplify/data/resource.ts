@@ -21,7 +21,6 @@ export const data = defineData({
   authorizationModes: {
     defaultAuthorizationMode: "userPool", // 変更
     // API 認証の記述を削除
-    },
   },
 });
 
